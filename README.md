@@ -1,4 +1,5 @@
 ## Tools for tracing error and readable printing of wrapped errors
+[![Go Report Card](https://goreportcard.com/badge/github.com/LydinaPavuh/verbose_errors)](https://goreportcard.com/report/github.com/LydinaPavuh/verbose_errors)
 
 
 ## Wrapped errors printing
